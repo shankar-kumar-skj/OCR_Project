@@ -1,0 +1,44 @@
+{
+  "file": "receipt_001.jpg",
+  "status": "success",
+  "ocr_engine": "easyocr",
+  "avg_ocr_confidence": 0.9124,
+  "store_name": {
+    "value": "WHOLE FOODS MARKET",
+    "confidence": 0.9268
+  },
+  "date": {
+    "value": "15/03/2024",
+    "confidence": 0.8668
+  },
+  "items": [
+    {
+      "name": "Organic Milk 2L",
+      "price": "$3.99",
+      "confidence": 0.8662
+    },
+    {
+      "name": "Sourdough Bread",
+      "price": "$4.50",
+      "confidence": 0.8662
+    },
+    {
+      "name": "Free Range Eggs x12",
+      "price": "$5.49",
+      "confidence": 0.8662
+    },
+    {
+      "name": "Butter Unsalted",
+      "price": "$2.79",
+      "confidence": 0.8662
+    }
+  ],
+  "total_amount": {
+    "value": "$16.77",
+    "confidence": 0.9455
+  },
+  "overall_confidence": 0.9130,
+  "flagged_fields": [],
+  "raw_text_snippet": "WHOLE FOODS MARKET\n123 Main Street, Austin TX\nDate: 15/03/2024  Time: 14:32\n--------------------------------\nOrganic Milk 2L         $3.99\nSourdough Bread         $4.50\nFree Range Eggs x12     $5.49\nButter Unsalted         $2.79\n--------------------------------\nSubtotal               $16.77\nTax (0%)                $0.00\nTotal                  $16.77\n--------------------------------\nThank you for shopping!",
+  "processing_time_sec": 2.341
+}

@@ -1,0 +1,47 @@
+{
+  "summary": {
+    "total_spend": 142.63,
+    "number_of_transactions": 5,
+    "average_transaction_value": 28.53,
+    "max_transaction": 54.20,
+    "min_transaction": 8.49
+  },
+  "spend_per_store": [
+    {
+      "store": "WHOLE FOODS MARKET",
+      "total_spent": 54.20,
+      "transactions": 2,
+      "average_transaction": 27.10
+    },
+    {
+      "store": "WALMART SUPERCENTER",
+      "total_spent": 42.11,
+      "transactions": 1,
+      "average_transaction": 42.11
+    },
+    {
+      "store": "TARGET",
+      "total_spent": 37.83,
+      "transactions": 1,
+      "average_transaction": 37.83
+    },
+    {
+      "store": "STARBUCKS",
+      "total_spent": 8.49,
+      "transactions": 1,
+      "average_transaction": 8.49
+    }
+  ],
+  "low_confidence_receipts": [
+    {
+      "file": "receipt_004.jpg",
+      "total_amount": "$37.83",
+      "confidence": 0.61,
+      "note": "Review recommended"
+    }
+  ],
+  "unresolved_receipts": [],
+  "receipts_processed": 5,
+  "receipts_with_totals": 5,
+  "receipts_unresolved": 0
+}

@@ -1,0 +1,14 @@
+# Core OCR engines (choose one or both)
+easyocr>=1.7.0
+pytesseract>=0.3.10
+
+# Image processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# PDF support (optional)
+pdf2image>=1.16.3
+
+# Utilities
+tqdm>=4.65.0
